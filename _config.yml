@@ -1,0 +1,10 @@
+# Masjid Al-Shifaa (Itä-Vantaan Islamilainen Yhdyskunta) – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Al-Shifaa (Itä-Vantaan Islamilainen Yhdyskunta)"
+description: "Masjid Al-Shifaa (Itä-Vantaan Islamilainen Yhdyskunta), Rautkallionkatu 14, 01360 Vantaa. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-shifaa-ita-vantaan-islamilainen-yhdyskunta     # tiedosto _moskeijat/masjid-al-shifaa-ita-vantaan-islamilainen-yhdyskunta.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-al-shifaa/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-al-shifaa"
